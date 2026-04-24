@@ -1,0 +1,58 @@
+[
+    {
+        "id": "destination_1",
+        "route": "Chandigarh to Shimla",
+        "summary": "Fast hill getaway with premium family comfort.",
+        "tag": "Hill Escape",
+        "image": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "destination_2",
+        "route": "Chandigarh to Manali",
+        "summary": "Long-route comfort for groups, snow trips, and weekend tours.",
+        "tag": "Adventure",
+        "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "destination_3",
+        "route": "Chandigarh to Prayagraj",
+        "summary": "Spiritual group travel with reliable pacing and driver support.",
+        "tag": "Pilgrimage",
+        "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "destination_4",
+        "route": "Chandigarh to Jaipur",
+        "summary": "Premium event and leisure road journeys for larger groups.",
+        "tag": "Events",
+        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "destination_5",
+        "route": "Chandigarh to Agra",
+        "summary": "Classic North India circuit planning with comfort-led interiors.",
+        "tag": "Heritage",
+        "image": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "destination_6",
+        "route": "Chandigarh to Haridwar",
+        "summary": "Comfortable spiritual transfers for families and yatra groups.",
+        "tag": "Sacred Route",
+        "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "destination_7",
+        "route": "Chandigarh to Amritsar",
+        "summary": "Day trips and guest movement with polished chauffeur support.",
+        "tag": "City Gold",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "destination_8",
+        "route": "Chandigarh to Dharamshala",
+        "summary": "Relaxed mountain transfers for family and spiritual travel.",
+        "tag": "Retreat",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    }
+]

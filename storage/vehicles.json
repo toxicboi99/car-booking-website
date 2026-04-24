@@ -1,0 +1,82 @@
+[
+    {
+        "id": "vehicle_urbania_10",
+        "name": "Force Urbania 10 Seater",
+        "slug": "force-urbania-10-seater",
+        "capacity": "10 Seater",
+        "type": "Urbania",
+        "summary": "A chauffeur-driven premium van with plush captain seats, silent cabin comfort, and luxury airport-style interiors.",
+        "highlights": [
+            "Executive lounge-style seating",
+            "Powerful AC for all seasons",
+            "Premium ambient lighting",
+            "Ideal for VIP family and corporate travel"
+        ],
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+        "accent": "Copper Signature"
+    },
+    {
+        "id": "vehicle_urbania_11",
+        "name": "Force Urbania 11 Seater",
+        "slug": "force-urbania-11-seater",
+        "capacity": "11 Seater",
+        "type": "Urbania",
+        "summary": "Built for longer intercity trips with extra legroom, reclining comfort, and a smooth luxury ride profile.",
+        "highlights": [
+            "Recliner seats with generous leg space",
+            "Perfect for pilgrimage and event groups",
+            "Large luggage support",
+            "Premium chauffeur assistance"
+        ],
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80",
+        "accent": "Long-Ride Comfort"
+    },
+    {
+        "id": "vehicle_urbania_14",
+        "name": "Force Urbania 14 Seater",
+        "slug": "force-urbania-14-seater",
+        "capacity": "14 Seater",
+        "type": "Urbania",
+        "summary": "A polished solution for medium groups that need premium finishing, comfort-first travel, and memorable road-trip presence.",
+        "highlights": [
+            "Spacious premium cabin",
+            "Balanced comfort for group travel",
+            "Great for weddings and tours",
+            "Refined fit and finish"
+        ],
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80",
+        "accent": "Group Luxury"
+    },
+    {
+        "id": "vehicle_tempo_12",
+        "name": "Luxury Tempo Traveller 12 Seater",
+        "slug": "luxury-tempo-traveller-12-seater",
+        "capacity": "12 Seater",
+        "type": "Tempo Traveller",
+        "summary": "A budget-conscious luxury option with dependable AC performance, generous space, and dependable trip economics.",
+        "highlights": [
+            "Comfortable seating for smaller groups",
+            "Strong AC and luggage space",
+            "Affordable luxury positioning",
+            "Useful for local and regional tours"
+        ],
+        "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1200&q=80",
+        "accent": "Smart Luxury"
+    },
+    {
+        "id": "vehicle_tempo_17",
+        "name": "Luxury Tempo Traveller 17 Seater",
+        "slug": "luxury-tempo-traveller-17-seater",
+        "capacity": "17 Seater",
+        "type": "Tempo Traveller",
+        "summary": "Our large-group option for tours, yatras, employee movement, and event transfers with comfort-led seating plans.",
+        "highlights": [
+            "Large-capacity seating",
+            "Strong fit for group and event movement",
+            "Smooth long-route ride",
+            "Trusted choice for coordinators and agents"
+        ],
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+        "accent": "Big Group Ease"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "gallery_1",
+        "title": "Urbania premium front profile",
+        "media_type": "image",
+        "media_url": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "gallery_2",
+        "title": "Luxury cabin mood lighting",
+        "media_type": "image",
+        "media_url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "gallery_3",
+        "title": "Road trip mountain frame",
+        "media_type": "image",
+        "media_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "gallery_4",
+        "title": "Executive airport arrival",
+        "media_type": "image",
+        "media_url": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "gallery_5",
+        "title": "Traveler moments",
+        "media_type": "image",
+        "media_url": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+        "id": "gallery_6",
+        "title": "Scenic route stop",
+        "media_type": "image",
+        "media_url": "https://images.unsplash.com/photo-1500534314209-a26db0f0b4c0?auto=format&fit=crop&w=1200&q=80"
+    }
+]
